@@ -1,0 +1,24 @@
+{
+  "name": "hbsx-color",
+  "version": "1.0.0",
+  "description": "handlebars color helpers",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [
+    "handlebars",
+    "extension",
+    "helpers",
+    "color",
+    "hbs",
+    "hbsx"
+  ],
+  "author": "axtk",
+  "license": "ISC",
+  "dependencies": {
+    "color-alpha": "^1.1.2",
+    "color-luminance": "^2.1.0",
+    "color-rgba": "^2.2.3"
+  }
+}
